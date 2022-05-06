@@ -3,6 +3,7 @@
   "description": "Uniswap Interface",
   "homepage": ".",
   "private": true,
+  "homepage": "https://CryptoSmallStar.github.io/uniswap-interface-v2",
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
     "@popperjs/core": "^2.4.4",
