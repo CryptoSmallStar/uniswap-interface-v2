@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from 'sou-uniswap-sdk-v2'
+import { Currency, ETHER, Token } from 'star-swap-sdk-v2'
 import React, { KeyboardEvent, RefObject, useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react'
 import ReactGA from 'react-ga'
 import { useTranslation } from 'react-i18next'

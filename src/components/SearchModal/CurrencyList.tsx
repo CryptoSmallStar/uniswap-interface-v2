@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from 'sou-uniswap-sdk-v2'
+import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from 'star-swap-sdk-v2'
 import React, { CSSProperties, MutableRefObject, useCallback, useMemo } from 'react'
 import { FixedSizeList } from 'react-window'
 import { Text } from 'rebass'

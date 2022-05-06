@@ -1,4 +1,4 @@
-import { CurrencyAmount, JSBI, Token, Trade } from 'sou-uniswap-sdk-v2'
+import { CurrencyAmount, JSBI, Token, Trade } from 'star-swap-sdk-v2'
 import React, { useCallback, useContext, useEffect, useMemo, useState } from 'react'
 import { ArrowDown } from 'react-feather'
 import ReactGA from 'react-ga'

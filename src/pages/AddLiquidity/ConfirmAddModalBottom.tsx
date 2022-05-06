@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from 'sou-uniswap-sdk-v2'
+import { Currency, CurrencyAmount, Fraction, Percent } from 'star-swap-sdk-v2'
 import React from 'react'
 import { Text } from 'rebass'
 import { ButtonPrimary } from '../../components/Button'

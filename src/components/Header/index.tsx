@@ -1,4 +1,4 @@
-import { ChainId } from 'sou-uniswap-sdk-v2'
+import { ChainId } from 'star-swap-sdk-v2'
 import React from 'react'
 import { isMobile } from 'react-device-detect'
 import { Text } from 'rebass'
@@ -132,7 +132,8 @@ const NETWORK_LABELS: { [chainId in ChainId]: string | null } = {
   [ChainId.ROPSTEN]: 'Ropsten',
   [ChainId.GÖRLI]: 'Görli',
   [ChainId.KOVAN]: 'Kovan',
-  [ChainId.BSCT]: 'BSCT',
+  [ChainId.BSCMAIN]: 'BSCMAIN',
+  [ChainId.BSCTEST]: 'BSCTEST'
 }
 
 export default function Header() {

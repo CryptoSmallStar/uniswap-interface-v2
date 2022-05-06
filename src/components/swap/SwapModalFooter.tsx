@@ -1,4 +1,4 @@
-import { Trade, TradeType } from 'sou-uniswap-sdk-v2'
+import { Trade, TradeType } from 'star-swap-sdk-v2'
 import React, { useContext, useMemo, useState } from 'react'
 import { Repeat } from 'react-feather'
 import { Text } from 'rebass'

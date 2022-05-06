@@ -1,4 +1,4 @@
-import { JSBI, Pair, Percent } from 'sou-uniswap-sdk-v2'
+import { JSBI, Pair, Percent } from 'star-swap-sdk-v2'
 import { darken } from 'polished'
 import React, { useState } from 'react'
 import { ChevronDown, ChevronUp } from 'react-feather'

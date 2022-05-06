@@ -1,4 +1,4 @@
-import { ChainId } from 'sou-uniswap-sdk-v2'
+import { ChainId } from 'star-swap-sdk-v2'
 import { createStore, Store } from 'redux'
 import { addTransaction, checkedTransaction, clearAllTransactions, finalizeTransaction } from './actions'
 import reducer, { initialState, TransactionState } from './reducer'

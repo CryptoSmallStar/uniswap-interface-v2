@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { AddressZero } from '@ethersproject/constants'
-import { TokenAmount, Token, ChainId, Percent, JSBI } from 'sou-uniswap-sdk-v2'
+import { TokenAmount, Token, ChainId, Percent, JSBI } from 'star-swap-sdk-v2'
 
 import {
   getEtherscanLink,

@@ -1,4 +1,4 @@
-import { Percent } from 'sou-uniswap-sdk-v2'
+import { Percent } from 'star-swap-sdk-v2'
 import React from 'react'
 import { ONE_BIPS } from '../../constants'
 import { warningSeverity } from '../../utils/prices'

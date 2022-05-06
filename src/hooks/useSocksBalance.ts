@@ -1,4 +1,4 @@
-import { JSBI } from 'sou-uniswap-sdk-v2'
+import { JSBI } from 'star-swap-sdk-v2'
 import { useMemo } from 'react'
 import { NEVER_RELOAD, useSingleCallResult } from '../state/multicall/hooks'
 import { useActiveWeb3React } from './index'

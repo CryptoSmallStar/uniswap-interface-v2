@@ -1,5 +1,5 @@
 import { MaxUint256 } from '@ethersproject/constants'
-import { CurrencyAmount, ETHER, SwapParameters, Token, Trade, TradeOptions, TradeType } from 'sou-uniswap-sdk-v2'
+import { CurrencyAmount, ETHER, SwapParameters, Token, Trade, TradeOptions, TradeType } from 'star-swap-sdk-v2'
 import { getTradeVersion } from '../data/V1'
 import { Version } from '../hooks/useToggledVersion'
 

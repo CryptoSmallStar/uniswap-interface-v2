@@ -1,4 +1,4 @@
-import { ChainId, Pair, Token } from 'sou-uniswap-sdk-v2'
+import { ChainId, Pair, Token } from 'star-swap-sdk-v2'
 import flatMap from 'lodash.flatmap'
 import { useCallback, useMemo } from 'react'
 import { shallowEqual, useDispatch, useSelector } from 'react-redux'

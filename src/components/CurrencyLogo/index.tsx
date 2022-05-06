@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from 'sou-uniswap-sdk-v2'
+import { Currency, ETHER, Token } from 'star-swap-sdk-v2'
 import React, { useMemo } from 'react'
 import styled from 'styled-components'
 

@@ -1,4 +1,4 @@
-import { Currency, Pair } from 'sou-uniswap-sdk-v2'
+import { Currency, Pair } from 'star-swap-sdk-v2'
 import React, { useState, useContext, useCallback } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import { darken } from 'polished'

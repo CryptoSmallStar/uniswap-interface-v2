@@ -1,4 +1,4 @@
-import { ChainId } from 'sou-uniswap-sdk-v2'
+import { ChainId } from 'star-swap-sdk-v2'
 import { createStore, Store } from 'redux'
 import { addPopup, removePopup, toggleSettingsMenu, toggleWalletModal, updateBlockNumber } from './actions'
 import reducer, { ApplicationState } from './reducer'

@@ -1,4 +1,4 @@
-import { Currency, Percent, Price } from 'sou-uniswap-sdk-v2'
+import { Currency, Percent, Price } from 'star-swap-sdk-v2'
 import React, { useContext } from 'react'
 import { Text } from 'rebass'
 import { ThemeContext } from 'styled-components'

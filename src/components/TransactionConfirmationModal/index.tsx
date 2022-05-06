@@ -1,4 +1,4 @@
-import { ChainId } from 'sou-uniswap-sdk-v2'
+import { ChainId } from 'star-swap-sdk-v2'
 import React, { useContext } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import Modal from '../Modal'

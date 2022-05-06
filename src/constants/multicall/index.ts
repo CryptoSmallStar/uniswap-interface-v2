@@ -1,4 +1,4 @@
-import { ChainId } from 'sou-uniswap-sdk-v2'
+import { ChainId } from 'star-swap-sdk-v2'
 import MULTICALL_ABI from './abi.json'
 
 const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {
@@ -7,7 +7,8 @@ const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {
   [ChainId.KOVAN]: '0x2cc8688C5f75E365aaEEb4ea8D6a480405A48D2A',
   [ChainId.RINKEBY]: '0x42Ad527de7d4e9d9d011aC45B31D8551f8Fe9821',
   [ChainId.GÖRLI]: '0x77dCa2C955b15e9dE4dbBCf1246B4B85b651e50e',
-  [ChainId.BSCT]: '0xcA4a08024854d2B033923FF32F31B246fa1Dba9E'
+  [ChainId.BSCMAIN]: '0xcA11bde05977b3631167028862bE2a173976CA11',
+  [ChainId.BSCTEST]: '0x02bbE62A6111D4C2F6d9c14721fE07A62a729a73'
 }
 
 export { MULTICALL_ABI, MULTICALL_NETWORKS }

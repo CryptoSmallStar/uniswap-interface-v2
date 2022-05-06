@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, Percent, Route, TokenAmount, Trade } from 'sou-uniswap-sdk-v2'
+import { CurrencyAmount, ETHER, Percent, Route, TokenAmount, Trade } from 'star-swap-sdk-v2'
 import { DAI, USDC } from '../constants'
 import { MockV1Pair } from '../data/V1'
 import v1SwapArguments from './v1SwapArguments'

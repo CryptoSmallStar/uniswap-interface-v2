@@ -14,7 +14,7 @@ import {
   Trade,
   TradeType,
   WETH
-} from 'sou-uniswap-sdk-v2'
+} from 'star-swap-sdk-v2'
 import { useMemo } from 'react'
 import { useActiveWeb3React } from '../hooks'
 import { useAllTokens } from '../hooks/Tokens'

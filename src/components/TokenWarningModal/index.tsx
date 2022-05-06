@@ -1,4 +1,4 @@
-import { Token } from 'sou-uniswap-sdk-v2'
+import { Token } from 'star-swap-sdk-v2'
 import { transparentize } from 'polished'
 import React, { useCallback, useMemo, useState } from 'react'
 import styled from 'styled-components'

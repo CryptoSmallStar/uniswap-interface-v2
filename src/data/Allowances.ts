@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from 'sou-uniswap-sdk-v2'
+import { Token, TokenAmount } from 'star-swap-sdk-v2'
 import { useMemo } from 'react'
 
 import { useTokenContract } from '../hooks/useContract'

@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, ETHER, JSBI, Token, TokenAmount } from 'sou-uniswap-sdk-v2'
+import { Currency, CurrencyAmount, ETHER, JSBI, Token, TokenAmount } from 'star-swap-sdk-v2'
 import { useMemo } from 'react'
 import ERC20_INTERFACE from '../../constants/abis/erc20'
 import { useAllTokens } from '../../hooks/Tokens'

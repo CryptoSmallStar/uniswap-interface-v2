@@ -1,4 +1,4 @@
-import { Currency, ETHER, JSBI, TokenAmount } from 'sou-uniswap-sdk-v2'
+import { Currency, ETHER, JSBI, TokenAmount } from 'star-swap-sdk-v2'
 import React, { useCallback, useEffect, useState } from 'react'
 import { Plus } from 'react-feather'
 import { Text } from 'rebass'

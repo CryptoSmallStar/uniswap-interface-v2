@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, JSBI, Pair, Percent, TokenAmount } from 'sou-uniswap-sdk-v2'
+import { Currency, CurrencyAmount, JSBI, Pair, Percent, TokenAmount } from 'star-swap-sdk-v2'
 import { useCallback } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { usePair } from '../../data/Reserves'

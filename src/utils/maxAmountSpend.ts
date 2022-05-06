@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from 'sou-uniswap-sdk-v2'
+import { CurrencyAmount, ETHER, JSBI } from 'star-swap-sdk-v2'
 import { MIN_ETH } from '../constants'
 
 /**

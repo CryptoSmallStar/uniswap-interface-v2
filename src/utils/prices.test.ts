@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'sou-uniswap-sdk-v2'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'star-swap-sdk-v2'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

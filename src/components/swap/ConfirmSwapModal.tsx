@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from 'sou-uniswap-sdk-v2'
+import { currencyEquals, Trade } from 'star-swap-sdk-v2'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

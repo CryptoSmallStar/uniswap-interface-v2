@@ -1,4 +1,4 @@
-import { Currency, currencyEquals, ETHER, WETH } from 'sou-uniswap-sdk-v2'
+import { Currency, currencyEquals, ETHER, WETH } from 'star-swap-sdk-v2'
 import { useMemo } from 'react'
 import { tryParseAmount } from '../state/swap/hooks'
 import { useTransactionAdder } from '../state/transactions/hooks'

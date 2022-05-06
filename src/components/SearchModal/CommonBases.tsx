@@ -1,6 +1,6 @@
 import React from 'react'
 import { Text } from 'rebass'
-import { ChainId, Currency, currencyEquals, ETHER, Token } from 'sou-uniswap-sdk-v2'
+import { ChainId, Currency, currencyEquals, ETHER, Token } from 'star-swap-sdk-v2'
 import styled from 'styled-components'
 
 import { SUGGESTED_BASES } from '../../constants'
